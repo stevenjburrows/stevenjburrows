@@ -1,3 +1,4 @@
+
 <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg">
 
 <h2> Hi, I'm Steven! </h2>
@@ -8,7 +9,7 @@
 [![Linkedin: stevenj-b-urrows](https://img.shields.io/badge/-stevenjburrows-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/steven-j-burrows/)
 [![GitHub stevenjburrows](https://img.shields.io/github/followers/stevenjburrows?label=follow&style=social)](https://github.com/stevenjburrows)
 
-### <https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="50"> A little more about me...
+### <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="50"> A little more about me...
 
 ```javascript
 const steven = {
@@ -18,8 +19,9 @@ const steven = {
   databases: [MongoDB, PostgreSQL, Firebase],
   architecture: ["microservices", "event-driven", "design system pattern"],
   volunteering: {
-    PiltonYouthChildrensProject: [Firebase, React],
-    ScottishTechArmy: Training,
-  },
-};
+                        PiltonYouthChildrensProject : [Firebase, React],
+                        ScottishTechArmy: Training
+                      },
+}
+
 ```
