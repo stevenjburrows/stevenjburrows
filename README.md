@@ -9,4 +9,4 @@ This is just the start of my README file so come back for more updates
 
 Feel free to connect with me below
 
-[![Link to my linkedin profile](./linkedin-logo.png)](https://www.linkedin.com/in/steven-j-burrows/)
+[![Link to my linkedin profile](https://github.com/stevenjburrows/stevenjburrows/blob/master/linkedin-logo.png)](https://www.linkedin.com/in/steven-j-burrows/)
