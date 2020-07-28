@@ -1,12 +1,28 @@
-# Welcome to the world of tomorrow
-![image of a rubber duck in front of a macbook](./banner.jpg)
 
-My name is Steven, if you haven't already guessed and I have recently changed my career into software development.
+<img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg">
 
-To help me with this change I went ot Code Clan in Edinburgh and in my repo I have some of the task they set out for us and some projects I have done since I graduated from Code Clan.
+<h2> Hi, I'm Steven! </h2>
+<img align='right' src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_hi.png" width="230">
+<p><em>Software Enginner currently looking for a new role
+</em></p>
 
-This is just the start of my README file so come back for more updates
+[![Linkedin: stevenj-b-urrows](https://img.shields.io/badge/-stevenjburrows-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/steven-j-burrows/)
+[![GitHub stevenjburrows](https://img.shields.io/github/followers/stevenjburrows?label=follow&style=social)](https://github.com/stevenjburrows)
 
-Feel free to connect with me below
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-[![Link to my linkedin profile](./linkedin-logo.png)](https://www.linkedin.com/in/steven-j-burrows/)
+```javascript
+const steven = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Node, Docker],
+  databases: [MongoDB, PostgreSQL, Firebase],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  volunteering: {
+                        PiltonYouthChildrensProject : [Firebase, React],
+                        ScottishTechArmy: Training
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
+```
