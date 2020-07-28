@@ -1,5 +1,5 @@
 # Welcome to the world of tomorrow
-![image of a rubber duck in front of a macbook](./banner.jpg)
+![image of a rubber duck in front of a macbook](https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg)
 
 My name is Steven, if you haven't already guessed and I have recently changed my career into software development.
 
