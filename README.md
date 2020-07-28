@@ -16,7 +16,7 @@
 const steven = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Node, Docker],
+  tools: [Vue, React, Node, Docker],
   databases: [MongoDB, PostgreSQL, Firebase],
   volunteering: {
     PiltonYouthChildrensProject: [Firebase, React],
