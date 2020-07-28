@@ -1,8 +1,8 @@
 <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg">
 
 <h2> Hi, I'm Steven! </h2>
-<img align='right' src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_hi.png" width="100">
-<p><em>Software Enginner currently looking for a new role
+<img align='right' src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_hi.png" width="175">
+<p><em>Software Engineer currently looking for a new role
 </em></p>
 
 [![Linkedin: stevenj-b-urrows](https://img.shields.io/badge/-stevenjburrows-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/steven-j-burrows/)
@@ -18,10 +18,11 @@ const steven = {
   code: [Javascript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Node, Docker],
   databases: [MongoDB, PostgreSQL, Firebase],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   volunteering: {
     PiltonYouthChildrensProject: [Firebase, React],
     ScottishTechArmy: Training,
   },
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
