@@ -1,3 +1,9 @@
+ <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+
 <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg">
 
 <h2> Hi, I'm Steven! </h2>
@@ -10,8 +16,9 @@
 
 ### A little more about me...
 
-<img align='middle' src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="250">
-
+<div class="img-container"> 
+<img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="250">
+</div>
 ```javascript
 const steven = {
   pronouns: "he" | "him",
