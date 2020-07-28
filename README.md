@@ -21,8 +21,7 @@ const steven = {
   volunteering: {
                         PiltonYouthChildrensProject : [Firebase, React],
                         ScottishTechArmy: Training
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                      }
 }
 
 ```
