@@ -19,6 +19,7 @@
 <div class="img-container"> 
 <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="250">
 </div>
+
 ```javascript
 const steven = {
   pronouns: "he" | "him",
