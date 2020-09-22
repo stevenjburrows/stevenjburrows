@@ -16,11 +16,11 @@
 const steven = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby, Python, Java],
-  tools: [Vue, React, Node, Docker],
+  tools: [Vue, React, React Native, Node, Docker],
   databases: [MongoDB, PostgreSQL, Firebase],
   volunteering: {
     PiltonYouthChildrensProject: [Firebase, React],
-    ScottishTechArmy: Training,
+    ScottishTechArmy: Training,React front end development
   },
 };
 ```
