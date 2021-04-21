@@ -21,13 +21,15 @@ const steven = {
   volunteering: {
     PiltonYouthChildrensProject: [Firebase, React, Javascript],
     ScottishTechArmy: {
-                        Miricyl: [Node, Express, React, Javascript, helping DevOps, Helping database Enigneer],
+                        Miricyl: [Node, Express, React, Javascript, JSX, helping DevOps, Helping database Enigneer],
                         SeeScape: "Software recovery and install",
                         Comunity "Councils: Teams & Zoom training",
-                        Glasgow Caladonian Uni healthcare app: React. [Javascript, JSX, CSS]
+                        Glasgow Caladonian Uni healthcare app: [React, Javascript, JSX, CSS]
                       }
   },
 };
 ```
+
+The Miricyl app can be found at https://help.miricyl.org/
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say 😊</em>
