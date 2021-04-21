@@ -19,8 +19,13 @@ const steven = {
   tools: [Vue, React, React Native, Node, Docker],
   databases: [MongoDB, PostgreSQL, Firebase],
   volunteering: {
-    PiltonYouthChildrensProject: [Firebase, React],
-    ScottishTechArmy: Training,React front end development
+    PiltonYouthChildrensProject: [Firebase, React, Javascript],
+    ScottishTechArmy: {
+                        Miricyl: [Node, Express, React, Javascript, helping DevOps, Helping database Enigneer],
+                        SeeScape: "Software recovery and install",
+                        Comunity "Councils: Teams & Zoom training",
+                        Glasgow Caladonian Uni healthcare app: React. [Javascript, JSX, CSS]
+                      }
   },
 };
 ```
