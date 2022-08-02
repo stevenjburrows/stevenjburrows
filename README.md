@@ -1,7 +1,6 @@
 <img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/banner.jpg">
 
-<h2> Hi, I'm Steven! </h2>
-<img align='right' src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_hi.png" width="175">
+## Hi, I'm Steven!
 <p><em>Software Engineer currently looking for a new role
 </em></p>
 
@@ -10,13 +9,12 @@
 
 ### A little more about me...
 
-<img src="https://github.com/stevenjburrows/stevenjburrows/blob/master/emoji_coding.png" width="250">
 
 ```javascript
 const steven = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Ruby, Python, Java],
-  tools: [Vue, React, React Native, Node, Docker],
+  code: [Javascript, HTML, CSS, TypeScript, Tailwind CSS],
+  tools: [Vue, React, React Native, Node, Docker, GraphQL],
   databases: [MongoDB, PostgreSQL, Firebase],
   volunteering: {
     PiltonYouthChildrensProject: [Firebase, React, Javascript],
@@ -24,7 +22,8 @@ const steven = {
                         Miricyl: [Node, Express, React, Javascript, JSX, helping DevOps, Helping database Enigneer],
                         SeeScape: "Software recovery and install",
                         Comunity "Councils: Teams & Zoom training",
-                        Glasgow Caladonian Uni healthcare app: [React, Javascript, JSX, CSS]
+                        Glasgow Caladonian Uni healthcare app: [React, Javascript, JSX, CSS],
+                        Volunteer APP: [Node, Express, Restfull API's, React Native, TypeScript, Styled Components]
                       }
   },
 };
