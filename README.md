@@ -31,6 +31,4 @@ blog:[The Kilted Coder on hashnode
 ```
 [The Kilted Coder blog](https://thekiltedcoder.hashnode.dev/)
 
-The Miricyl app can be found at https://help.miricyl.org/
-
 <a href="https://app.daily.dev/stevenb"><img src="https://api.daily.dev/devcards/92a71bcc6e18436cb507d74106c69205.png?r=n71" width="400" alt="Steven Burrows's Dev Card"/></a>
