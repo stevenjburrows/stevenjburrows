@@ -26,9 +26,11 @@ const steven = {
                         Volunteer APP: [Node, Express, Restfull API's, React Native, TypeScript, Styled Components]
                       }
   },
+blog:[The Kilted Coder on hashnode
 };
 ```
+[The Kilted Coder blog](https://thekiltedcoder.hashnode.dev/)
 
 The Miricyl app can be found at https://help.miricyl.org/
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say 😊</em>
+<a href="https://app.daily.dev/stevenb"><img src="https://api.daily.dev/devcards/92a71bcc6e18436cb507d74106c69205.png?r=n71" width="400" alt="Steven Burrows's Dev Card"/></a>
